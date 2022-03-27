@@ -34,7 +34,10 @@ THEN the saved events persist
 
 The following animation demonstrates the application functionality:
 
-![A user clicks on slots on the color-coded calendar and edits the events.](./Assets/05-third-party-apis-homework-demo.gif)
+![A user clicks on slots on the color-coded calendar and edits the events.](./Assets/WorkDayScheduler.png)
+Link: file:///Users/alazargebremichael/Desktop/Class/Homework/Unit-05-HW-Work-Day-Scheduler/index.html 
+
+Description: This ia calander that keeps track of your tasks and todo's. It also indicates the time with color. Red is present, green is future, white is the past.
 
 
 ## Grading Requirements
