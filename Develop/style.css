@@ -86,6 +86,7 @@ textarea {
 }
 .input-group-text {
   width: 70px;
+  color: rgb(182, 102, 235);
 }
 .btn {
   color: black;
